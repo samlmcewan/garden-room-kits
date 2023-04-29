@@ -1,5 +1,16 @@
 /* Large devices (desktops, 992px and up) */
 
 @media (min-width: 992px) {
+   
+        #main-nav .nav-item {
+            padding: 0;
+          
+        }
+
+
+        #main-nav .nav-item:last-of-type .nav-link {
+            padding-right: 0;
+        }
+
 
 }
