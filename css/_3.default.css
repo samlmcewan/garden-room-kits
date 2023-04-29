@@ -3,3 +3,19 @@
 /*--------------------------------------------------------------
 # Typography
 --------------------------------------------------------------*/
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-bar {
+    background-color: var(--blue);
+    color: #ffffff;
+}
+
+.top-bar .top-phone {
+    font-size: 1.25rem;
+}
+
+.top-bar .top-mail {
+    font-size: 1rem;
+}
